@@ -29,3 +29,14 @@ gradle-app.setting
 
 # Cache of project
 .gradletasknamecache
+
+# metals
+.metals/
+.classpath
+.project
+.settings
+
+# vscode
+.vscode
+
+bin/
